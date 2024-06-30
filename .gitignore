@@ -1,0 +1,25 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.xcworkspace
+!*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+/.build/
+
+# CocoaPods
+Pods/
+
+# iOS
+*.ipa
+*.xcarchive
+*.xcappdata
+*.xcuserdata
+*.xcworkspace
+*.xcodeproj
